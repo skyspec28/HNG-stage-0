@@ -33,12 +33,16 @@ print(response.json())
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo
-   cd your-repo
+   git clone https://github.com/skyspec28/HNG-stage-0.git
+   cd main
    ```
 
 2. Install dependencies:
    ```bash
+   python3 venv venv
+   source venv/bin/activate #mac
+   
+   .venv \Scripts\activate  #windows 
    pip install -r requirements.txt
    ```
 
