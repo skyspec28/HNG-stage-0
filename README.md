@@ -39,7 +39,7 @@ print(response.json())
 
 2. Install dependencies:
    ```bash
-   python3 venv venv
+   python3 -m venv venv
    source venv/bin/activate #mac
    
    .venv \Scripts\activate  #windows 
