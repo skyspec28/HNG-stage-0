@@ -1,8 +1,4 @@
-Got it! Here’s a more concise version of the README that focuses on the essentials without being too bulky:
-
----
-
-# HNG Stage One API
+# HNG Stage 0 API
 
 A simple FastAPI-based API that returns your email, current UTC datetime, and GitHub repository URL. This is part of the HNG Internship Stage One task.
 
