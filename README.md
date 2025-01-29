@@ -1,6 +1,6 @@
 # HNG Stage 0 API
 
-A simple FastAPI-based API that returns your email, current UTC datetime, and GitHub repository URL. This is part of the HNG Internship Stage One task.
+A FastAPI-based API that returns your email, current UTC datetime, and GitHub repository URL. This is part of the HNG Internship Stage One task.
 
 ## API Documentation
 
