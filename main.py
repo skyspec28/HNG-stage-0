@@ -20,6 +20,6 @@ async def get_info():
     return {
         "email": "maulomepelumi@gmail.com",
         "current_datetime": current_time,
-        "github_url": "https://github.com/yourusername/your-repo"
+        "github_url": "https://github.com/skyspec28/HNG-stage-0"
     }
 
