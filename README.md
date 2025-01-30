@@ -19,7 +19,7 @@ A FastAPI-based API that returns your email, current UTC datetime, and GitHub re
 ### Example Usage
 **cURL**:
 ```bash
-curl https://your-deployed-url/
+curl hng-stage-0-production-a7c1.up.railway.app
 ```
 
 **Python**:
@@ -57,5 +57,5 @@ The API will be available at `http://localhost:8000`
 
 The API is deployed at:
 ```
-https://your-deployed-url/
+hng-stage-0-production-a7c1.up.railway.app
 ```
